@@ -2,3 +2,5 @@ Mubashir Hanif
 23 SET 046
 
 cout<< "The sum of Two numbers is :"<< a+b <<endl;
+
+cout<<"The Subtraction of Two number is :"<< a-b <<endl;
