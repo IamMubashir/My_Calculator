@@ -4,3 +4,7 @@ Mubashir Hanif
 cout<< "The sum of Two numbers is :"<< a+b <<endl;
 
 cout<<"The Subtraction of Two number is :"<< a-b <<endl;
+
+cout<<"The Multiplication of Two Number is :"<< a*b <<endl;
+
+cout<<"The Division of Two Number is :"<< a/b <<endl;
